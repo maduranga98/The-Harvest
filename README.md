@@ -1,6 +1,8 @@
-# aswenna
+# අස්වැන්න[Aswenna] - The Harvest
 
 A new Flutter project.
+This is the Aswenna application developed by using Flutter, Firebase Firestore. 
+This application for all kind of farmers, to purchase there items without given any commision to the brokers.
 
 ## Getting Started
 
